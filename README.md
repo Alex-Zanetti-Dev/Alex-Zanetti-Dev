@@ -27,4 +27,4 @@
   
 </div>
 
-![Snake animation](https://github.com/Alex-Zanetti-Dev/Alex-Zanetti-Dev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Alex-Zanetti-Dev)
